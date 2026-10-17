@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" shape-rendering="crispEdges">
+    <!-- Head -->
+    <rect x="16" y="0" width="32" height="16" fill="#000000" />
+    <!-- Hair -->
+    <rect x="16" y="0" width="32" height="8" fill="#F5F5F5" />
+    <!-- Rose on Hair -->
+    <rect x="24" y="4" width="4" height="4" fill="#800020" />
+    <!-- Body -->
+    <rect x="20" y="16" width="24" height="16" fill="#000000" />
+    <!-- Corset -->
+    <rect x="20" y="16" width="24" height="4" fill="#808080" />
+    <!-- Cloak -->
+    <rect x="20" y="20" width="24" height="24" fill="#000000" />
+    <!-- Cloak Lining -->
+    <rect x="20" y="20" width="24" height="24" fill="#800020" />
+    <!-- Roses on Cloak -->
+    <rect x="24" y="24" width="2" height="2" fill="#800000" />
+    <rect x="36" y="24" width="2" height="2" fill="#800000" />
+    <!-- Arms -->
+    <rect x="16" y="16" width="4" height="16" fill="#000000" />
+    <rect x="44" y="16" width="4" height="16" fill="#000000" />
+    <!-- Legs -->
+    <rect x="20" y="32" width="8" height="16" fill="#000000" />
+    <rect x="36" y="32" width="8" height="16" fill="#000000" />
+    <!-- Boots -->
+    <rect x="20" y="48" width="8" height="8" fill="#000000" />
+    <rect x="36" y="48" width="8" height="8" fill="#000000" />
+    <!-- Accessories -->
+    <rect x="24" y="8" width="2" height="2" fill="#C0C0C0" />
+    <rect x="36" y="8" width="2" height="2" fill="#C0C0C0" />
+</svg>
